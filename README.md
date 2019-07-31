@@ -1,14 +1,3 @@
-=== Duplicate Post ===
-Tags: 				duplicate post, copy, replace text, create multiple at once
-Requires at least: 	3.6
-Tested up to: 		5.2
-Stable tag: 		1.0.1
-Requires PHP:		5.2.4
-License: 			GPLv2 or later
-License URI: 		http://www.gnu.org/licenses/gpl-2.0.html
-
-Copy posts of any type with a click!
-
 == Description ==
 
 This plugin allows users to duplicate posts of any type, or copy them to new publish for further editing.
